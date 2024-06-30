@@ -3,8 +3,8 @@
 <h1 align="left"> Hi, This is bookstar! </h1>
 <h2 align="middle"> Skill </h2>
 
-<img src="https://img.shields.io/badge/c-FF00DD?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/cplusplus-BCE55C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/c-FF00DD?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/cplusplus-BCE55C?style=for-the-badge&logo=c++&logoColor=white">
 <!--
 **bookstar7/bookstar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
