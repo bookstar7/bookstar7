@@ -3,7 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A566FF&height=200&section=header&text=Summer's%20Github!&fontSize=50&&fontAlignY=35&fontColor=FFFFFF&animation=twinkling" />
 
 <div align=center>
-  
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFA7A7&title_bg=%23535353&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+
+
 ![Summer's GitHub stats](https://github-readme-stats.vercel.app/api?username=summer&theme=great-gatsby)
 
 </div>
