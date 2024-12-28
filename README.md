@@ -1,6 +1,6 @@
 ## About me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFA7A7&height=200&section=header&text=Summer's%20Github!&fontSize=50&&fontAlignY=35&fontColor=FFFFFF&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF9595&height=200&section=header&text=Summer's%20Github!&fontSize=50&&fontAlignY=35&fontColor=FFFFFF&animation=twinkling" />
 
 <div align=center>
 
