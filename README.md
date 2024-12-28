@@ -7,7 +7,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbookstar7&count_bg=%23FFA7A7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 
-![bookstar7's GitHub stats](https://github-readme-stats.vercel.app/api?username=summer&theme=great-gatsby)
+![bookstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bookstar7&show_icons=true&theme=great-gatsby)
 
 </div>
 
